@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+My name is ##Juraj## and i'm currently:
+ - 🎓 stuDYING at **FEI STU**
+ - 💼 working for **Madwire** and **Sentire**
+ 
+I love 🚵‍♂️, ⛷️, ⛰️ and 🚗.
+
+Feel free to contact me on [LinkedIn](https://www.linkedin.com/in/juraj-revaj/)
+
 <!--
 **jRevaj/jRevaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
