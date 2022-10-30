@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is ##Juraj## and i'm currently:
+My name is **Juraj** and i'm currently:
  - 🎓 stuDYING at **FEI STU**
  - 💼 working for **Madwire** and **Sentire**
  
