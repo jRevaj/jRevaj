@@ -2,7 +2,8 @@
 
 My name is **Juraj** and i'm currently:
  - 🎓 stuDYING at **FEI STU**
- - 💼 working for **Madwire** and **Sentire**
+ - 💼 py dev at **Madwire** 
+ - 💼 fullstack dev at **Sentire**
  
 I love 🚵‍♂️, ⛷️, ⛰️ and 🚗.
 
