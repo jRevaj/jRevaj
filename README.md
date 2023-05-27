@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is **Juraj** and i'm currently:
- - 🎓 stuDYING at **FEI STU**
+ - 🎓 studying at **FEI STU**
  - 💼 py dev at **Madwire** 
  - 💼 fullstack dev at **Sentire**
  
