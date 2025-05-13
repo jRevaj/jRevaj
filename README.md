@@ -3,7 +3,6 @@
 My name is **Juraj** and i'm currently:
  - 🎓 studying at **FEI STU**
  - 💼 sw dev at **Netgrif**
- - 💼 fullstack dev at **Madwire**
  - 💼 fullstack dev at **Sentire**
  
 I love 🚵‍♂️, ⛷️, ⛰️ and 🚗.
